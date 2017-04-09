@@ -1,4 +1,3 @@
-package trialProject;
 
 public class FinanceSheetFilter {
 
