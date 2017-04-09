@@ -1,4 +1,3 @@
-package trialProject;
 
 import java.beans.IntrospectionException;
 import java.beans.PropertyDescriptor;
